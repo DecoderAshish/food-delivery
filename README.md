@@ -22,11 +22,21 @@ git clone https://github.com/DecoderAshish/food-delivery.git
 
 Preview the example
 
-Login page
-<img align="center" src="https://github.com/DecoderAshish/WhatsApp/blob/main/Screenshot%20(1).png" alt="decoderashish" height="100%" width="100%" />
+Splash Screen
+<img align="center" src="https://decoderashish.me/food-delivery/github-images/1.jpg" alt="decoderashish" height="100%" width="100%" />
 
-Home page
-<img align="center" src="https://github.com/DecoderAshish/WhatsApp/blob/main/Screenshot%20(2).png" alt="decoderashish" height="100%" width="100%" />
+Home Page
+<img align="center" src="https://decoderashish.me/food-delivery/github-images/2.jpg" alt="decoderashish" height="100%" width="100%" />
 
-Chat page
-<img align="center" src="https://github.com/DecoderAshish/WhatsApp/blob/main/Screenshot%20(3).png" alt="decoderashish" height="100%" width="100%" />
+Restauren page
+<img align="center" src="https://decoderashish.me/food-delivery/github-images/3.jpg" alt="decoderashish" height="100%" width="100%" />
+<img align="center" src="https://decoderashish.me/food-delivery/github-images/5.jpg" alt="decoderashish" height="100%" width="100%" />
+
+Cart Page
+<img align="center" src="https://decoderashish.me/food-delivery/github-images/4.jpg" alt="decoderashish" height="100%" width="100%" />
+
+Order Processing Page
+<img align="center" src="https://decoderashish.me/food-delivery/github-images/6.jpg" alt="decoderashish" height="100%" width="100%" />
+
+Delivery Page
+<img align="center" src="https://decoderashish.me/food-delivery/github-images/7.jpg" alt="decoderashish" height="100%" width="100%" />
